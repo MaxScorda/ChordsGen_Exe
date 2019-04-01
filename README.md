@@ -2,7 +2,7 @@
 Embarcadero 7.1 C++ Project
 
 
-<b>Chords Viewer & generator</b>
+<b>Chords Viewer & Generator</b>
 
 ![alt text](https://github.com/MaxScorda/ChordsGen_Exe/blob/master/Info/MainInfo.jpg)
 
